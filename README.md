@@ -132,6 +132,28 @@ Update file paths and filters as needed to match your local data and environment
 - Win/Loss Percentage  
 - Monte Carlo simulation for drawdown and return modeling
 
+## Combined Strategy Performance Report
+
+- **Initial Capital**: ₹1,000,000.00  
+- **Final Portfolio**: ₹3,700,761.03  
+- **Total Return**: 270.08%  
+- **Max Drawdown**: ₹124,049.77  
+
+- **Sharpe Ratio**: 3.11  
+- **Sortino Ratio**: 6.62  
+- **Calmar Ratio**: 10.01  
+
+- **Total Trades**: 976  
+- **Winning Trades**: 673  
+- **Losing Trades**: 303  
+- **Average PnL**: ₹2,767.17  
+- **Best Trade**: ₹146,082.03  
+- **Worst Trade**: -₹18,000.00  
+
+- **Trade Period**: 2023-06-02 to 2025-01-15
+
+
+
 ---
 
 ## Intended Audience
